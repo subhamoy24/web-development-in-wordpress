@@ -1,2 +1,2 @@
 # web-development-in-wordpress
-I currently did some assume wordpress projects
+I currently did some awesome wordpress projects
